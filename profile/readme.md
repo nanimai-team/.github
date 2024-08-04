@@ -1,9 +1,9 @@
-# NanimAI
-
-[![NanimAI Frontend Dev Build](https://github.com/nanimai-team/frontend/actions/workflows/dev.yaml/badge.svg)](https://github.com/nanimai-team/frontend/actions/workflows/dev.yaml)
-[![NanimAI Frontend Prod Build](https://github.com/nanimai-team/frontend/actions/workflows/prod.yml/badge.svg)](https://github.com/nanimai-team/frontend/actions/workflows/prod.yml)
-[![NanimAI Event-Demux Build](https://github.com/nanimai-team/event-demux/actions/workflows/main.yaml/badge.svg)](https://github.com/nanimai-team/event-demux/actions/workflows/main.yaml)
-[![NanimAI Smart Parser Build](https://github.com/nanimai-team/smart-parser/actions/workflows/main.yml/badge.svg)](https://github.com/nanimai-team/smart-parser/actions/workflows/main.yml)
-[![API Actions](https://github.com/nanimai-team/nanimai-api/actions/workflows/main.yaml/badge.svg)](https://github.com/nanimai-team/nanimai-api/actions/workflows/main.yaml)
+![# NanimAI](./banner.png)
 
 
+| Service   |      Status      | 
+|----------|:-------------:|
+| Frontend (dev) |  [![NanimAI Frontend Dev Build](https://github.com/nanimai-team/frontend/actions/workflows/dev.yaml/badge.svg)](https://github.com/nanimai-team/frontend/actions/workflows/dev.yaml)| 
+| Fronend (prod) |    [![NanimAI Frontend Prod Build](https://github.com/nanimai-team/frontend/actions/workflows/prod.yml/badge.svg)](https://github.com/nanimai-team/frontend/actions/workflows/prod.yml)   |   
+| Event-Demux | [![NanimAI Event-Demux Build](https://github.com/nanimai-team/event-demux/actions/workflows/main.yaml/badge.svg)](https://github.com/nanimai-team/event-demux/actions/workflows/main.yaml) |
+| Smart-Parser | [![NanimAI Smart Parser Build](https://github.com/nanimai-team/smart-parser/actions/workflows/main.yml/badge.svg)](https://github.com/nanimai-team/smart-parser/actions/workflows/main.yml) |
